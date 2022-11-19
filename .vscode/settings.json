@@ -1,0 +1,11 @@
+{
+    "editor.defaultFormatter": "HookyQR.beautify",
+    "beautify.config": "",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "less.format.enable": true,
+    "css.format.enable": true,
+    "typescript.format.enable": true,
+    "json.format.enable": true,
+    "sass.format.enabled": true
+}
